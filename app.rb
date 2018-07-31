@@ -18,7 +18,4 @@ class App < Sinatra::Base
     "My favorite song is A Drop in the Ocean"
   end 
   
-  
-  
-  
 end
